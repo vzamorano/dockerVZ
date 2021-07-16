@@ -7,7 +7,7 @@ This app exposes the endpoint /dockerEndpoint in the port 9001
 Run the next command to build the image
 
 ```
-docker build -t pythonapp:v0.1 .
+docker build -t pythonappvz:v0.1 .
 ```
 
 # Run the image
