@@ -34,3 +34,4 @@ To see the JSON with information
 ```
 <IP Number of your machine>:9001/dockerEndpoint
 ```
+![Docker](https://1000logos.net/wp-content/uploads/2017/07/Docker-Logo-500x148.png)
